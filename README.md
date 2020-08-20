@@ -67,6 +67,7 @@ or Download by clicking [here](https://github.com/elewah/RadViz-Plotly-Examples/
 
 ## About
 The RadViz-Plotly is developed by a research group on the IoT lab at Ontario tech university. The Radviz-Plotly package has two functions, 2DRadViz that plots the 2D Radial visualization and 3DRadViz that plots Radial visualization, using the powerful interactive tools in Plotly library.
+One of the projects for the data visualization course at Ontario Tech university is to apply the Function on 20 datasets from UCI and plot them in 2D and 3D. For more information please check this link: https://github.com/abeerbadawi/RadVis3D
 
 ## Contact Us
  **Email:** abdelrahman.elewah@ontariotechu.net
